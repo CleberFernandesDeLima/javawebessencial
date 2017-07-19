@@ -1,0 +1,1 @@
+Verificando ao dar um update no local, verificar se este arquivo, o teste.txt, será baixado.
